@@ -74,6 +74,12 @@ Here are the primary technologies I work with:
 
 ---
 
+### 💼 Work Experience
+- **Industrial Training** | Mango Teleservices Ltd. (2024)
+- **Industrial Training** | Grameenphone Ltd. (Feb–Mar 2024)
+
+---
+
 ### 📚 Publications & Research
 
 <details>
