@@ -173,14 +173,14 @@ Here are the primary technologies I work with:
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiazRhythm35&theme=tokyonight&hide_border=true&layout=compact&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&layout=compact&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiazRhythm35&theme=default&hide_border=true&layout=compact&count_private=true"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiazRhythm35&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages"/>
   </picture>
   
 </p>
